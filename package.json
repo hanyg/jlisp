@@ -1,0 +1,30 @@
+{
+  "name": "jlisp",
+  "version": "1.0.0",
+  "description": "Simple LISP dialect that compiles to HP RPN commands",
+  "main": "rpn.js",
+  "dependencies": {
+    "npx": "^10.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "rpn.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanyg/jlisp.git"
+  },
+  "keywords": [
+    "lisp",
+    "javascript",
+    "rpn",
+    "42s",
+    "free42"
+  ],
+  "author": "Hany Greiss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanyg/jlisp/issues"
+  },
+  "homepage": "https://github.com/hanyg/jlisp#readme"
+}
